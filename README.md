@@ -10,7 +10,7 @@ at a time.
 
 ```
 git clone git@github.com:svolain/Philosophers.git
-cd philo
+cd Philosophers
 make
 ./philo 4 300 100 70 4
 ```
